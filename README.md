@@ -38,14 +38,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Clyde Team Development
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaywade26&show_icons=true&theme=radical" alt="Jaywade26" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaywade26&theme=radical" alt="Jaywade26" />
+  <img src="https://raw.githubusercontent.com/Jaywade26/Jaywade26/assets/clyde.png" alt="Clyde" width="100%" />
 </p>
 
 <!-- Optional contribution graph -->
