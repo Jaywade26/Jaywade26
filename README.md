@@ -41,7 +41,7 @@
 ### 📈 Clyde Team Development
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaywade26/Jaywade26/assets/clyde.png" alt="Clyde" width="100%" />
+  <img src="./assets/clyde.png" alt="Clyde" width="100%" />
 </p>
 
 <!-- Optional contribution graph -->
